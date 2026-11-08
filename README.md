@@ -88,7 +88,7 @@ Like most GSIs, internal network configurations break texting. To completely fix
 ### Step 4: Flashing AxionAOSP GSI
 1. Copy the full path of your extracted AxionAOSP `.img` file (e.g., `"C:\Users\user\Desktop\Axion-2.9-GSI_treble_arm64-ab-GAPPS.img"`).
 2. In the CMD window, type the following command and hit Enter:
-   ```bash
+   ```
    fastboot flash system "paste_your_copied_image_path_here"
    ```
 3. Once the flashing process completes successfully, type this command to return to recovery:
@@ -102,7 +102,7 @@ Like most GSIs, internal network configurations break texting. To completely fix
 ### Step 5: Rooting (MANDATORY FOR SMS FIX) & Final Boot
 1. When TWRP boots up, go to **Advanced -> ADB Sideload** and swipe to start it.
 2. On your PC CMD window, execute the following command to root the device (so you can install the SMS fix later):
-   ```bash
+   ```
    adb sideload "path_to_magisk.zip"
    ```
 3. Once the sideload finishes, return to the TWRP main screen.
