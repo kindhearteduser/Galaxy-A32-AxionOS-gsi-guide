@@ -45,6 +45,7 @@ Like most GSIs, internal network configurations break texting. To completely fix
 * [Download **Odin**](https://samfw.com/Odin/Samfw.com_Odin3_v3.14.4.zip)
 * [Download the vbmeta_disabled_r.tar](https://xdaforums.com/attachments/vbmeta_disabled_r-tar.5236537/?hash=f7249adaefe16f3aeac3256a63063f0a)
 * [Download **TWRP**](https://github.com/LumiROM/a32-useful-things/raw/refs/heads/main/Recoverys/TWRP/TWRP-3.7.0_erofs-a32-20251227.tar) for Galaxy A32 4G.
+* [Download **Magisk**](https://github.com/topjohnwu/Magisk/releases)
 * [Download **Platform-Tools**](https://developer.android.com/tools/releases/platform-tools?hl=tr#downloads)
 * [Download the **AxionAOSP 2.9 GSI Image**](https://github.com/Doze-off/axion_aosp/releases/tag/2026-10-17) (Choose your variant: GApps, microG, or Vanilla). Extract the `.img` file from the archive.
 
