@@ -120,20 +120,7 @@ If this project helped you save time or unbrick your device, feel free to suppor
 ### 🌐 EVM Networks (Preferred & Cheapest)
 *Supports: Ethereum, BNB Chain, Polygon, Arbitrum, Optimism, Base, Linea, Monad*
 ```text
-```
-
-### 🔴 Tron (TRX) Network
-```text
-
-```
-
-### ⚡ Bitcoin (BTC) Network
-```text
-
-```
-
-### ☀️ Solana (SOL) Network
-```text
+0xe26b507090707acffe16c34a8c6cfca1ee3d6ff1
 ```
 
 ---
