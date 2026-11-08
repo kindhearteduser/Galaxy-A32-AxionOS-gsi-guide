@@ -1,4 +1,4 @@
-# Samsung Galaxy A32 4G (MTK) - AxionAOSP 2.9 GSI Installation Guide
+# Samsung Galaxy A32 4G (MTK) - AxionAOSP 2.9 GSI Installation Guide - [Support Me](https://github.com/kindhearteduser/Galaxy-A32-AxionOS-gsi-guide/edit/main/README.md#-support-the-project)
 ---
 I am not responsible for bricked devices, dead SD cards, thermonuclear war, or you getting fired because the alarm app failed. Please do some research if you have any concerns about features included in before flashing it! YOU are choosing to make these modifications, and if you point the finger at me for messing up your device, I will laugh at you.
 ---
@@ -110,3 +110,32 @@ Like most GSIs, internal network configurations break texting. To completely fix
 5. Tap **Reboot System**.
 
 **Congratulations! You have successfully installed AxionAOSP on your Galaxy A32 4G! Now open the Magisk app and flash your SMS module.** 🚀
+
+---
+## ☕ Support the Project
+
+If this project helped you save time or unbrick your device, feel free to support my work! Since I don't use traditional banking, I accept donations exclusively through crypto.
+
+### 🌐 EVM Networks (Preferred & Cheapest)
+*Supports: Ethereum, BNB Chain, Polygon, Arbitrum, Optimism, Base, Linea, Monad*
+```text
+0xb954d67705666Df593759B5f4D0e8C94Dc268eeb
+```
+
+### 🔴 Tron (TRX) Network
+```text
+TC97PDCUubWLRxbQayGMv2eoKPFYwtGcsD
+```
+
+### ⚡ Bitcoin (BTC) Network
+```text
+bc1qx3cg3pc38lqzqw2tjq5lp0u3sluztj78fzr349
+```
+
+### ☀️ Solana (SOL) Network
+```text
+GCgBwcPDfHHrrSdgQs1gVDcv7sMmZR8Pq1qtkN2iN6Vu
+```
+
+---
+
