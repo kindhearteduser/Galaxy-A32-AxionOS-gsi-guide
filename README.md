@@ -4,7 +4,7 @@ I am not responsible for bricked devices, dead SD cards, thermonuclear war, or y
 ---
 ---
 
-This repository provides a foolproof, step-by-step guide to installing **AxionAOSP 2.9 GSI** on the Samsung Galaxy A32 4G. 
+This repository provides a foolproof, step-by-step guide to installing **AxionOS 2.9 GSI** on the Samsung Galaxy A32 4G. 
 
 By following this exact layout, you will bypass Samsung's strict dynamic partition limits, disable `vbmeta` verification, and boot a highly customized open-source ROM with **fully working internal storage encryption** and absolute zero lag.
 
@@ -47,7 +47,7 @@ Like most GSIs, internal network configurations break texting. To completely fix
 * [Download **TWRP**](https://github.com/LumiROM/a32-useful-things/raw/refs/heads/main/Recoverys/TWRP/TWRP-3.7.0_erofs-a32-20251227.tar) for Galaxy A32 4G.
 * [Download **Magisk**](https://github.com/topjohnwu/Magisk/releases)
 * [Download **Platform-Tools**](https://developer.android.com/tools/releases/platform-tools?hl=tr#downloads)
-* [Download the **AxionAOSP 2.9 GSI Image**](https://github.com/Doze-off/axion_aosp/releases/tag/2026-10-17) (Choose your variant: GApps, microG, or Vanilla). Extract the `.img` file from the archive.
+* [Download the **AxionOS 2.9 GSI Image**](https://github.com/Doze-off/axion_aosp/releases/tag/2026-10-17) (Choose your variant: GApps, microG, or Vanilla). Extract the `.img` file from the archive.
 
 ---
 
@@ -87,7 +87,7 @@ Like most GSIs, internal network configurations break texting. To completely fix
 ---
 
 ### Step 4: Flashing AxionAOSP GSI
-1. Copy the full path of your extracted AxionAOSP `.img` file (e.g., `"C:\Users\user\Desktop\Axion-2.9-GSI_treble_arm64-ab-GAPPS.img"`).
+1. Copy the full path of your extracted AxionOS `.img` file (e.g., `"C:\Users\user\Desktop\Axion-2.9-GSI_treble_arm64-ab-GAPPS.img"`).
 2. In the CMD window, type the following command and hit Enter:
    ```
    fastboot flash system "paste_your_copied_image_path_here"
