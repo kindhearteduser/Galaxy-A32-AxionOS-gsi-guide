@@ -27,6 +27,8 @@ By following this exact layout, you will bypass Samsung's strict dynamic partiti
 ## 🚫 What's NOT Working (Known Issues):
 * **Fingerprint Sensor:** Broken. The GSI source literally thinks the device has a physical rear fingerprint sensor (lmao), so the under-display optical sensor is completely ignored. Just use a PIN, Pattern, or Face Unlock.
 * **VoLTE** It may vary from one operator to another, but it most likely will not work. It is recommended that you disable the VoLTE feature in your operator settings.
+**Always On Display** For some reason, there's no such option on the phone.
+
 
 ---
 
